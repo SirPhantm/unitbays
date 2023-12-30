@@ -1,0 +1,134 @@
+Name,LeftTurret,RightTurret,Capacitor,Countermeasure,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Shuttle,04 00 00 00,05 00 00 00,01 00 00 00,03 00 00 00,02 00 00 00,64 00 00 00,06 00 00 00,07 00 00 00,08 00 00 00,
+
+Name,
+Shuttle-A,
+
+Name,MainTurret,RearTurret,Capacitor,Countermeasure,EngineBay,Mine,PowerGenerator,Shield,TractorBeam,
+Ranger,04 00 00 00,14 00 00 00,01 00 00 00,03 00 00 00,02 00 00 00,10 00 00 00,06 00 00 00,07 00 00 00,08 00 00 00,
+
+Name,
+Ranger-A,
+
+Name,
+Ranger-H,
+
+Name,MainMiningTurret,
+Ranger-M,04 00 00 00,
+
+Name,LeftTurret,RightTurret,TopTurret,Capacitor,Countermeasure,EngineBay,Mine,PowerGenerator,Shield,TractorBeam,
+Raptor,96 00 00 00,78 00 00 00,04 00 00 00,01 00 00 00,03 00 00 00,02 00 00 00,10 00 00 00,06 00 00 00,07 00 00 00,08 00 00 00,
+
+Name,
+Raptor-A,
+
+Name,FrontTurret,MidTurret,RearTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,Mine,PowerGenerator,Shield,TractorBeam,
+Venture,04 00 00 00,05 00 00 00,08 00 00 00,06 00 00 00,01 00 00 00,03 00 00 00,0c 00 00 00,02 00 00 00,1e 00 00 00,07 00 00 00,09 00 00 00,0b 00 00 00,
+
+Name,
+Venture-A,
+
+Name,LeftTurret,MainTurret,RearTurret,RightTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,PowerGenerator,Shield,TractorBeam,
+Drake,04 00 00 00,05 00 00 00,08 00 00 00,06 00 00 00,0a 00 00 00,01 00 00 00,03 00 00 00,0c 00 00 00,02 00 00 00,07 00 00 00,09 00 00 00,0b 00 00 00,
+
+Name,RearTurret,RightTurret,TopTurret,PowerGenerator,Shield,
+Drake-A,09 00 00 00,07 00 00 00,06 00 00 00,08 00 00 00,0a 00 00 00,
+
+Name,LeftTurret,RightTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,Mine,PowerGenerator,Shield,TractorBeam,
+Hornet,04 00 00 00,06 00 00 00,09 00 00 00,01 00 00 00,03 00 00 00,0c 00 00 00,02 00 00 00,05 00 00 00,07 00 00 00,08 00 00 00,0a 00 00 00,
+
+Name,TopTurret,Shield,
+Hornet-A,08 00 00 00,09 00 00 00,
+
+Name,TopTurret,Shield,
+Hornet-X,08 00 00 00,09 00 00 00,
+
+Name,LeftTurret,MidTurret,RightTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,Mine,PowerGenerator,Shield,TractorBeam,
+Flyer,04 00 00 00,05 00 00 00,09 00 00 00,08 00 00 00,01 00 00 00,02 00 00 00,0c 00 00 00,03 00 00 00,06 00 00 00,07 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Flyer-A,
+
+Name,LeftTurret,MidTurret,RightTurret,Countermeasure,EngineBay,
+Flyer-X,03 00 00 00,09 00 00 00,05 00 00 00,04 00 00 00,02 00 00 00,
+
+Name,LeftTurret,RearTurret,RightTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,Mine,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Pioneer,04 00 00 00,09 00 00 00,07 00 00 00,06 00 00 00,01 00 00 00,03 00 00 00,0c 00 00 00,02 00 00 00,05 00 00 00,64 00 00 00,08 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Pioneer-A,
+
+Name,
+Pioneer-P,
+
+Name,FrontTurret,MidTurret,RearTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,Mine,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Hauler,03 00 00 00,07 00 00 00,06 00 00 00,05 00 00 00,01 00 00 00,04 00 00 00,0c 00 00 00,02 00 00 00,08 00 00 00,64 00 00 00,09 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Hauler-A,
+
+Name,
+Hauler-H,
+
+Name,FrontMiningTurret,MidMiningTurret,MidTurret,RearTurret,Countermeasure,EngineBay,Mine,PowerGenerator,
+Hauler-M,04 00 00 00,05 00 00 00,06 00 00 00,09 00 00 00,02 00 00 00,03 00 00 00,07 00 00 00,08 00 00 00,
+
+Name,
+Hauler-P,
+
+Name,FrontLeftTurret,FrontRightTurret,MineTurret,RearTurret,TopLeftTurret,TopRightTurret,Capacitor,Countermeasure,Electronics,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Orion,04 00 00 00,07 00 00 00,06 00 00 00,05 00 00 00,08 00 00 00,6e 00 00 00,01 00 00 00,02 00 00 00,c8 00 00 00,03 00 00 00,64 00 00 00,09 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Orion-A,
+
+Name,
+Orion-X,
+
+Name,FrontLeftTurret,FrontRightTurret,MineTurret,RearLeftTurret,RearRightTurret,TopTurret,Capacitor,Countermeasure,Electronics,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Thunder,04 00 00 00,07 00 00 00,06 00 00 00,2c 01 00 00,90 01 00 00,08 00 00 00,01 00 00 00,02 00 00 00,c8 00 00 00,03 00 00 00,64 00 00 00,09 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Thunder-A,
+
+Name,
+Thunder-X,
+
+Name,FrontLeftTurret,FrontRightTurret,RearLowerTurret,RearUpperTurret,TopTurret,Capacitor,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Creon,04 00 00 00,03 00 00 00,05 00 00 00,08 00 00 00,06 00 00 00,01 00 00 00,02 00 00 00,64 00 00 00,07 00 00 00,09 00 00 00,0a 00 00 00,
+
+Name,
+Creon-A,
+
+Name,RearLowerTurret,TopTurret,PowerGenerator,
+Creon-ML,07 00 00 00,05 00 00 00,06 00 00 00,
+
+Name,FrontLeftTurret,FrontRightTurret,MidTurret,RearTurret,TopTurret,Capacitor,Countermeasure,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Ares,04 00 00 00,07 00 00 00,06 00 00 00,05 00 00 00,08 00 00 00,01 00 00 00,02 00 00 00,03 00 00 00,64 00 00 00,09 00 00 00,0a 00 00 00,0b 00 00 00,
+
+Name,
+Ares-A,
+
+Name,Electronics,
+Ares-X,0c 00 00 00,
+
+Name,FrontLeftTurret,FrontRightTurret,LowerMidTurret,MidTurret,RearLeftTurret,RearRightTurret,TopTurret,Capacitor,Countermeasure,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Overlord,04 00 00 00,07 00 00 00,08 00 00 00,06 00 00 00,05 00 00 00,0b 00 00 00,09 00 00 00,01 00 00 00,02 00 00 00,03 00 00 00,64 00 00 00,0a 00 00 00,0c 00 00 00,0d 00 00 00,
+
+Name,
+Overlord-A,
+
+Name,RearTurret,Electronics,
+Overlord-X,05 00 00 00,c8 00 00 00,
+
+Name,FrontLeftTurret,FrontRightTurret,FrontTurret,MainTurret,RearLeftTurret,RearRightTurret,RearTurret,TopTurret,Capacitor,EngineBay,PassengerModule,PowerGenerator,Shield,TractorBeam,
+Magnus,06 00 00 00,03 00 00 00,07 00 00 00,05 00 00 00,09 00 00 00,0b 00 00 00,04 00 00 00,08 00 00 00,01 00 00 00,02 00 00 00,64 00 00 00,0a 00 00 00,0c 00 00 00,0d 00 00 00,
+
+Name,TopRightTurret,
+Magnus-A,0E 00 00 00,
+
+Name,
+Magnus-EQ,
+
+Name,Electronics,
+Magnus-X,c8 00 00 00,
